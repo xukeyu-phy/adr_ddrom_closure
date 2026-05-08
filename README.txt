@@ -2,7 +2,7 @@
 
 V1.0_GlobalFOM_ing
 This file is try to package all the two partition into a global Code.
-But it doesnot finished, which is lack the Schwartz iteration.
+But it doesnot finished, which lacks the Schwartz iteration.
 
 
 V1.1_LocalFOM - Explicit time
