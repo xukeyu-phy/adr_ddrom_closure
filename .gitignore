@@ -25,6 +25,8 @@ venv/
 # 忽略文件夹下的所有内容
 Out_data/
 Fig/
+Fig*/
+*data*/
 
 NN/
 V1.1_LocalFOM/V1.1.*/

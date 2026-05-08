@@ -26,6 +26,9 @@ single solver
 V1.2.1.1
 Add Schawatz iterator + Interface
 
-V1.2.2.0 ?
-POD snapshots
+⚠️ V1.2.2.0 (Archive) Important
+
+
+V1.2.2.1
+ing
 
