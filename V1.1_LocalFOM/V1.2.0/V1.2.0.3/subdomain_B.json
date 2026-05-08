@@ -1,0 +1,19 @@
+{
+    "domain": "Subdomain_B",
+    "mu": 1.0,
+    "beta_x": 0.0,
+    "beta_y": 0.0, 
+    "sigma": 0.0, 
+    "lambda": 10.0,
+    "nx" : 40,
+    "ny" : 100,
+    "x_min" : 0.6,
+    "x_max" : 1.0,
+    "y_min" : 0.0,
+    "y_max" : 1.0,
+    "ghostcell" : 0,
+    "cfl" : 1.0,
+    "T_final" : 0.05,
+    "bc_type" : "neumann",
+    "IfacePos": "Left"
+  }

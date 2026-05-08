@@ -1,0 +1,40 @@
+
+
+
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+
+
+# 通配符 忽略所有 .tmp 和 .log 结尾的文件
+*.tmp
+*.log
+*.png
+*.jpg
+*.npz
+*.dat
+*.csv
+*.pdf
+
+
+# 忽略文件夹下的所有内容
+Out_data/
+Fig/
+
+NN/
+V1.1_LocalFOM/V1.1.*/
+
+
+
+# 忽略类似 “temp_001.csv”, “temp_abc.txt” 这种以 temp_ 开头的文件
+temp_*
+
+# 不忽略特定文件（用 ! 取反）
+!important.log
+
+
